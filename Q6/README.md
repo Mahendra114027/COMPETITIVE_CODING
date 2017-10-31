@@ -19,7 +19,10 @@ Constraints:
 0 = K = 105
 0 = Ai = 1010
 
-Sample Input                       Sample Output
+Sample Input  
 1
 5 3
-2 1 7 4 2               14
+2 1 7 4 2          
+
+Sample Output
+14
