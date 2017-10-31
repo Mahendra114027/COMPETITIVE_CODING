@@ -23,17 +23,17 @@ _**Note:**_ It is guaranteed that the value of _**block[0]**_ is always _**0**_.
     5 3
     0 0 0 0 0
     6 5
-	0 0 0 1 1 1
-	6 3
-	0 0 1 1 1 0
-	3 1
-	0 1 0
+    0 0 0 1 1 1
+    6 3
+    0 0 1 1 1 0
+    3 1
+    0 1 0
 ```
 **Sample Output:**
 ```	
     YES
-	YES
-	NO
-	NO
+    YES
+    NO
+    NO
 ```
 Happy Coding! :+1:
