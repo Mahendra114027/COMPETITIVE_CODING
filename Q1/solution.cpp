@@ -1,4 +1,7 @@
 #include <iostream>
+
+#define SUCCESS 0
+
 using namespace std;
  
 int main()
@@ -22,5 +25,5 @@ int main()
     	cout<<"Possible";
     else
     	cout<<"Not_Possible";
-    return 0;
+    return SUCCESS;
 }
