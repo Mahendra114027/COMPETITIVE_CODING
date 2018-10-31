@@ -1,3 +1,3 @@
 # COMPETITIVE CODING
 -----------
-This repo will be a  medium for Questions and solutions stud wars .
+This repo will be a  medium for Questions and Solutions stud wars .
