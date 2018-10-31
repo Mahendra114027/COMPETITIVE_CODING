@@ -13,5 +13,5 @@ Ouptut:
 Print the answer for each test case in a new line.
 
 Constraints:
-1<=T<=100
-1<=N<=10^5
+1 <= T <= 100
+1 <= N <= 10^5

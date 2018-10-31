@@ -19,8 +19,8 @@ It contains "YES at index" at which it is found, if 2nd strand makes a DNA molec
 
 Constraints:
 
-0<T<=20
+0 < T <= 20
 
-0<big STRAND<=10^6
+0 < big STRAND <= 10^6
 
-0<small STRAND<=10^6
+0 < small STRAND <= 10^6
